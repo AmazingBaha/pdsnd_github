@@ -7,10 +7,10 @@
 Git Practice Session
 
 ### Description
-Practicing git usage and making functional repositories.
+Demonstrating basic git usage and making a functional repository.
 
 ### Files used
 Test File, everything else from udacity.
 
 ### Credits
-Udacity for the lessons, and base github repo.
+Udacity for the lessons, and the base github repo.
